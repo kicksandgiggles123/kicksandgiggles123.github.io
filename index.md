@@ -12,4 +12,4 @@ I thrive at the intersection of elegant proofs and hands-on computation, and I�
 
 **6 mini-research notebooks** • **4 visually engaging blog posts** • **8 competition medals**
 
-Check out my [About](/about), [Projects](/projects), or grab my [Resume](/HaifengGeCV.pdf).
+Check out my [About](/about), [Projects](/projects), or grab my [Resume](/DanielGe_Math_Resume.pdf).
