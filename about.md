@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-##Hi, this is Haifeng Ge
+##Hi, this is Daniel Ge
 
 I’m a rising 11th-grader at Sharon High School and a **USAJMO Qualifier (2025)**.  I enjoys the intersection of elegant proofs and hands-on computation, and I’m eager to contribute **8–10 hours/week** this summer to a math research project, for example number theory, combinatorics, or computational mathematics.
 
