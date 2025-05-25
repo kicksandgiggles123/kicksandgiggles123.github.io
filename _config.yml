@@ -1,7 +1,7 @@
-title: "Haifeng Ge"
+title: "Daniel Ge"
 author: "Rising 11th grader, USAJMO qualifier - math contest & research"
-description: "Haifeng Ge :D"
-url: "https://harveyge.github.io"    # your production URL
+description: "Daniel Ge :D"
+url: "https://danielge27.github.io"    # your production URL
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: "About"}
   - {file: "blog.md",  title: "Blog"}
   - {file: "projects.md",  title: "Projects"}
-  - {url: "/HaifengGeCV.pdf",  title: "CV"}
+  - {url: "/DanielGe_Math_Resume.pdf",  title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "malito:Danielge08@gmail.com"}
