@@ -4,7 +4,7 @@ title: "Welcome"
 permalink: /
 ---
 
-## Hi, I’m Haifeng Ge 
+## Hi, I’m Daniel Ge 
 
 **Rising 11th-grader and USAJMO Qualifier (2025)**  , Passionate about number theory, combinatorics, and computational experiments.
 
