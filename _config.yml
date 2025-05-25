@@ -1,0 +1,36 @@
+title: "Haifeng Ge"
+author: "Rising 11th grader, USAJMO qualifier - math contest & research"
+description: "Haifeng Ge :D"
+url: "https://harveyge.github.io"    # your production URL
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: "Home"}
+  - {file: "about.md", title: "About"}
+  - {file: "blog.md",  title: "Blog"}
+  - {file: "projects.md",  title: "Projects"}
+  - {url: "/HaifengGeCV.pdf",  title: "CV"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "malito:Danielge08@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: "Instagram",  icon: instagram,  url: "https://www.instagram.com/poshenloh/" }
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
